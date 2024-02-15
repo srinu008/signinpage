@@ -1,0 +1,55 @@
+.form-group {
+    justify-content: center;
+    margin-left: 40%;
+    justify-items: center;
+    
+}
+.label-m-2{
+    padding: 10px;
+}
+
+.buttonsubmit {
+    background-color:#561ae4 ;
+    color: #fafcfa;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 20px;
+    margin-left: 40%;
+    width: 100px;
+    font-weight: bold;
+}
+.buttonsubmit:hover{
+    cursor: pointer;
+    background-color:  hsl(252, 91%, 32%);
+    color: white;
+}
+
+.form-group input{
+    color: #332626;
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px;
+    border: 2px solid #8241a338 ;
+}
+.form {
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: hwb(157 9% 29% / 0.979);
+    height: 100vh;
+}
+.form-group lable {
+    position: absolute;
+    color: #030104;
+    background-color: #cfb3e4;
+}
+.checkbox {
+    margin-left: 40%;
+}
+.link {
+    margin-left: 40%;
+}
+
+
+
+
